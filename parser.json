@@ -1,7 +1,7 @@
 {
-  "lang": "sway",
+  "location": null,
+  "parser_version": "9b7845ce06ecb38b040c3940970b4fd0adc331d1",
   "url": "https://github.com/FuelLabs/tree-sitter-sway.git",
   "semver": false,
-  "parser_version": "9b7845ce06ecb38b040c3940970b4fd0adc331d1",
-  "location": null
+  "lang": "sway"
 }
